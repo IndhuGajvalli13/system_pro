@@ -2,3 +2,4 @@ Signup
 User name
 Pass word
 E-mail
+phone no
